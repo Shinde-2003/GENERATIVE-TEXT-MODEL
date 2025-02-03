@@ -70,3 +70,4 @@ Conclusion
 Generative Text Models, like GPT-2, are powerful tools for creating coherent and human-like text based on a given prompt. With the help of Hugging Face’s transformers library and Gradio, this implementation makes it easy for anyone to generate high-quality text interactively. Whether you’re a content creator, writer, researcher, or just someone exploring AI, this generative text model offers endless possibilities for creative and practical applications in the world of natural language processing.
 
 *OUTPUT*: 
+![Image](https://github.com/user-attachments/assets/ed4d72f4-e9df-481c-bd6c-3d09100a9592)

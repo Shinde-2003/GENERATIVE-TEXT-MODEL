@@ -8,6 +8,8 @@
 
 *DOMAIN*: ARTIFICIAL INTELLIGENCE
 
+*DURATION*: 4 WEEKS
+
 *MENTOR*: NEELA SANTOSH
 
 *DESCRIPTION*: Generative Text Model Using Hugging Face and Gradio
